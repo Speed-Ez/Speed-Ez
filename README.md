@@ -10,19 +10,19 @@
 
 
 <!--Image Gif-->
-<img  src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" height="250px" align="right" />
+<img  src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif" height="300px" align="right" />
 
+As a data analyst, I am responsible for collecting, organize, analyze, and interpret large sets of data to provide insights and support decision-making within an organization.
 
+- 🔭 Gather data from various sources such as databases, spreadsheets, surveys, or APIs. Ensure data quality and integrity by validating and cleaning the data as necessary.
+- 🌱 Prepare reports, dashboards, and visualizations to communicate findings and insights to stakeholders.
+- 💡 Stay updated with the latest industry trends, tools, and techniques related to data analysis
 
-- 🔭 I access, clean, model and analyze data sets to provide insights and make recommendations to solve data-related problems.
-- 🌱 I analyze and visualize data to make better decisions and detail-oriented results.
-- 👯 I’m looking to collaborate with other professionals in the field of data analytics and data science.
-- 🤔 I’m looking for help with job oppportunities and collaborations.
-- 💬 Ask me about data analytics.
-- ⚡ Fun fact: I love reading. 
-- 👨‍💻 Read my Data Analysis documentations, and blog posts on [Medium](https://medium.com/@okwuonugodspeed).
+- 💻 I am open to job opportunites, collaborative projects and events
+- 💬 Feel free to get in touch, ask me any question, or discuss a potential project.
+- 👨‍ Read my Data Analysis documentations, and blog posts on [Medium](https://medium.com/@okwuonugodspeed).
 
-## My Data Analytics Skillset:
+## Skillset:
 - Microsoft Excel
 - Power BI
 - SQL

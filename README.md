@@ -1,4 +1,4 @@
-<h2 align="left">Hello there  <img src = "https://cdn.dribbble.com/users/1714010/screenshots/7102658/media/4e537b1cfa17cbbe069e5736eb2cb1e7.gif" width = 50px></h2>
+<h2 align="left">Hello there  <img src = "https://cdn.dribbble.com/users/1714010/screenshots/7102658/media/4e537b1cfa17cbbe069e5736eb2cb1e7.gif" width = 70px></h2>
 
 <!-- Animation Typing -->
 

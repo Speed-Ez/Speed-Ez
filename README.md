@@ -23,6 +23,8 @@ As a data analyst, I am responsible for collecting, organize, analyze, and inter
 - 👨‍ Read my Data Analysis documentations, and blog posts on [Medium](https://medium.com/@okwuonugodspeed).
 
 ## Skillset:
+- Python (numpy, pandas,matplolib, seaborn)
+- Machine Learning (sklearn)
 - SQL
 - Power BI
 - Microsoft Excel
